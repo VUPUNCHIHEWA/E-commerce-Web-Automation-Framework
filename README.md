@@ -16,12 +16,39 @@ This is a professional test automation framework built using **Java** and **Sele
 - **Automatic Screenshots** captured on test failures.
 - Priority-based test execution.
 
-### 📊 Test Execution Reports
 
-#### 1. Automation Dashboard
-![Extent Report Dashboard](screenshots/Extent Report Dashboard1.png)
-![Extent Report Dashboard](screenshots/Extent Report Dashboard2.png)
+---
 
+## 📊 Test Reports
 
-#### 2. Failure Analysis with Screenshots
-![Failure Screenshot](screenshots/Failed Test Screenshot.png)
+### Automation Dashboard
+
+![Extent Report Dashboard](screenshots/Extent%20Report%20Dashboard1.png)  
+![Extent Report Dashboard](screenshots/Extent%20Report%20Dashboard2.png)
+
+---
+
+### Failure Analysis
+
+![Failure Screenshot](screenshots/Failed%20Test%20Screenshot.png)
+
+---
+
+## 🎯 Key Learning Outcomes
+
+- Applied **Page Object Model (POM)**  
+- Built reusable automation components  
+- Implemented reporting and debugging mechanisms  
+- Hands-on experience with real-world QA tools  
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repository and contribute.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, give it a ⭐ on GitHub!
