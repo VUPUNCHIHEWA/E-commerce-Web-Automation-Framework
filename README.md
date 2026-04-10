@@ -19,6 +19,34 @@ This is a professional test automation framework built using **Java** and **Sele
 
 ---
 
+## ⚙️ Setup and Installation
+
+Follow these steps to set up the project and run the tests on your local machine:
+
+---
+
+### 1. Prerequisites
+
+Ensure you have the following installed before proceeding:
+
+- **Java Development Kit (JDK 11+)**
+- **Apache Maven**
+- **Google Chrome Browser**
+- **VS Code** (with Java & Maven extensions)
+
+---
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/VUPUNCHIHEWA/E-commerce-Web-Automation-Framework.git
+cd E-commerce-Web-Automation-Framework
+
+mvn clean install
+mvn test
+
+
+
 ## 📊 Test Reports
 
 ### Automation Dashboard
@@ -43,47 +71,6 @@ This is a professional test automation framework built using **Java** and **Sele
 
 ---
 
-### 1. Prerequisites
-
-Ensure you have the following installed before proceeding:
-
-- **Java Development Kit (JDK 11+)**
-- **Apache Maven**
-- **Google Chrome Browser**
-- **VS Code** (with Java & Maven extensions)
-
----
-
-### 2. Clone the Repository
-
-Open your terminal and clone this project:
-
-```bash
-git clone https://github.com/VUPUNCHIHEWA/E-commerce-Web-Automation-Framework.git
-cd E-commerce-Web-Automation-Framework
-3. Install Dependencies
-
-This project uses Maven to manage libraries. Run the following command to download all required dependencies (Selenium, TestNG, Extent Reports, etc.):
-
-mvn clean install
-
-This will create a target/ folder and configure all required JAR files.
-
-4. Run the Automated Tests
-
-To execute the test suite:
-
-mvn test
-The browser will automatically launch
-Test scenarios (e.g., login flow) will execute
-The browser will close after execution
-5. View Test Reports
-
-After test execution, you can view the generated HTML report:
-
-Navigate to the target/ folder
-Locate the file: ExtentReport.html
-Open it in your browser
 ## 🤝 Contributing
 
 Feel free to fork this repository and contribute.
