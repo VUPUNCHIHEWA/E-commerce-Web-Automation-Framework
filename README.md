@@ -45,7 +45,7 @@ cd E-commerce-Web-Automation-Framework
 mvn clean install
 mvn test
 
-
+---
 
 ## 📊 Test Reports
 
