@@ -71,6 +71,15 @@ mvn test
 
 ---
 
+## 🚧 Future Enhancements
+
+- Cross-browser testing  
+- Parallel execution  
+- CI/CD integration (GitHub Actions / Jenkins)  
+- Docker support  
+
+---
+
 ## 🤝 Contributing
 
 Feel free to fork this repository and contribute.
