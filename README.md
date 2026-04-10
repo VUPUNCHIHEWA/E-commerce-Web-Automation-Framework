@@ -1,49 +1,46 @@
-# Selenium Web Automation Framework
+# 🚀 Selenium Web Automation Framework
 
-This is a professional test automation framework built using **Java** and **Selenium WebDriver**.
+A robust and scalable **test automation framework** built using **Java** and **Selenium WebDriver**, designed with industry best practices to ensure maintainability, reusability, and efficiency.
 
-### 🛠 Tech Stack
-- **Language:** Java
-- **Automation Tool:** Selenium WebDriver
-- **Test Framework:** TestNG
-- **Design Pattern:** Page Object Model (POM)
-- **Build Tool:** Maven
-- **Reporting:** Extent Reports
+---
 
-### 🚀 Key Features
-- Clean and maintainable code using **POM**.
-- Detailed HTML reports generated after each run.
-- **Automatic Screenshots** captured on test failures.
-- Priority-based test execution.
+## 🛠 Tech Stack
+
+- **Language:** Java  
+- **Automation Tool:** Selenium WebDriver  
+- **Test Framework:** TestNG  
+- **Design Pattern:** Page Object Model (POM)  
+- **Build Tool:** Maven  
+- **Reporting:** Extent Reports  
+
+---
+
+## ✨ Key Features
+
+- Clean and maintainable code using **Page Object Model (POM)**  
+- Interactive **Extent Reports** for better test analysis  
+- Automatic screenshots captured on test failures  
+- Priority-based execution using TestNG  
+- Easily scalable for large automation projects  
+
+---
 
 
 ---
 
-## ⚙️ Setup and Installation
+## ⚙️ Setup & Installation
 
-Follow these steps to set up the project and run the tests on your local machine:
+1. Clone the repository
+2. Navigate into the project
+3. Install dependencies    
 
----
-
-### 1. Prerequisites
-
-Ensure you have the following installed before proceeding:
-
-- **Java Development Kit (JDK 11+)**
-- **Apache Maven**
-- **Google Chrome Browser**
-- **VS Code** (with Java & Maven extensions)
 
 ---
 
-### 2. Clone the Repository
+## ▶️ Running Tests
 
-```bash
-git clone https://github.com/VUPUNCHIHEWA/E-commerce-Web-Automation-Framework.git
-cd E-commerce-Web-Automation-Framework
+Run all tests: mvn test
 
-mvn clean install
-mvn test
 
 ---
 
